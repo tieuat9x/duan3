@@ -14,8 +14,8 @@ table{
     color: red;
 }
 p,td{
-    color: red;
+    color: green;
 }
-span p{
+span > p{
     color: red;
 }
