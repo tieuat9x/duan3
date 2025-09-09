@@ -16,3 +16,6 @@ table{
 p,td{
     color: red;
 }
+div p{
+    color: green;
+}
