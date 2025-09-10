@@ -2,3 +2,6 @@
 p.vung9{
     color: red;
 }
+div+p{
+    color: green;
+}
