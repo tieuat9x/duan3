@@ -2,7 +2,7 @@
 p.vung9{
     color: red;
 }
-div+p{
+div>p{
     color: green;
 }
 h1+h2{
