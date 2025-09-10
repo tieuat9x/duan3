@@ -5,3 +5,6 @@ p.vung9{
 div+p{
     color: green;
 }
+h1+h2{
+    color: green;
+}
