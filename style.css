@@ -4,7 +4,10 @@
 /* h1+h2{
 /*     color: red ;
 } */
-span p {
+/* span p {
     color: green ;
 } */
 
+span[yk]{
+    color: blue ;
+}
