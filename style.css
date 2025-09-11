@@ -1,3 +1,6 @@
-p+span{
+/* p+span{
     color: green;
+} */
+p+p{
+    color: red;
 }
