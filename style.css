@@ -1,6 +1,6 @@
 /* p+span{
     color: green;
 } */
-table~p{
+h1+h2{
     color: red ;
 }
