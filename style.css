@@ -4,6 +4,6 @@
 /* h1+h2{
     color: red ;
 } */
-h1~td {
+a~h1 {
     color: green ;
 }
